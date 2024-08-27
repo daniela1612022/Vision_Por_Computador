@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_Taller_Vison_1_FILE /home/dani/Downloads/Vision_Por_Computador/Taller_Vison_1/build/Taller_Vison_1)
+set(__QT_DEPLOY_TARGET_Taller_Vison_1_TYPE EXECUTABLE)

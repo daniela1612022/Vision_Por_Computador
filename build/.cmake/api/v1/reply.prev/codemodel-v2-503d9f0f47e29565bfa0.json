@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1bfda493c2dd01c80510.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Taller_Vison_1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Taller_Vison_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Taller_Vison_1-Debug-30f6a101b2ba4e6db653.json",
+					"name" : "Taller_Vison_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Taller_Vison_1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Taller_Vison_1_autogen-Debug-659124a9edc9c871deea.json",
+					"name" : "Taller_Vison_1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Taller_Vison_1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Taller_Vison_1_autogen_timestamp_deps-Debug-caee16d5198204002724.json",
+					"name" : "Taller_Vison_1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/dani/Downloads/Vision_Por_Computador/Taller_Vison_1/build",
+		"source" : "/home/dani/Downloads/Vision_Por_Computador/Taller_Vison_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

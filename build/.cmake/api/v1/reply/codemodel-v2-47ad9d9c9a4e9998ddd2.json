@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-23ef3fca54c90f03e716.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Punto1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ejercicio1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ejercicio1-Debug-f64ac5030b5079f4e07f.json",
+					"name" : "Ejercicio1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ejercicio2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ejercicio2-Debug-cdcf8f8d5459de08df9b.json",
+					"name" : "Ejercicio2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ejercicio3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ejercicio3-Debug-46f0105b9a776d393fa3.json",
+					"name" : "Ejercicio3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ejercicio4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ejercicio4-Debug-8c10902b242ae339914d.json",
+					"name" : "Ejercicio4",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/dani/Downloads/Vision_Por_Computador/Taller_Vison_1/build",
+		"source" : "/home/dani/Downloads/Vision_Por_Computador/Taller_Vison_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
